@@ -13,3 +13,18 @@
   background: linear-gradient(#116ad7, #094a9f);
   color: white;
 }
+.btn-cancel {
+  color: white;
+  padding: 15px 24px;
+  text-align: center;
+  border-radius: 4px;
+  font-weight: bold;
+  background: linear-gradient(#a92e0b, #581202);
+  border: 1px solid #0F60C4;
+  transition: 2s;
+}
+
+.btn-cancel:hover {
+  background: linear-gradient(#ce360d, #7c1903);
+  color: white;
+}
